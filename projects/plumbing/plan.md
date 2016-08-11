@@ -15,6 +15,7 @@
    - size/type??
  - Water heater
    - model / size / type?
+   - http://learn.compactappliance.com/tankless-water-heater-sizing/
  - Stub outs?
     - Do we need these? (for code?) Toilet, shower, kitchen sink, hose bib..
  - Red tubing
